@@ -1,0 +1,7 @@
+// HTML
+<p class="my-paragraph" > Any text whose font we want to change </p>
+
+// CSS
+.my-paragraph {
+    font-size: 14px;
+}
